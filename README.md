@@ -2,4 +2,5 @@
 
 **Harjoitellaan** *ohjelmistotekniikan* saloja.
 
-[Laskarit](laskarit)
+* [Laskarit](laskarit)
+* [Työaikakirjanpito](dokumentaatio/tuntikirjanpito.md)
